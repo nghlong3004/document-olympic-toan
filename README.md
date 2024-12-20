@@ -10,8 +10,8 @@
 ## Tài liệu ôn thi Đại số & Giải tích 
 
 ### Kênh Video bài giảng của thầy cô bộ môn toán
-- [HUMG MATH CLUB](https://www.youtube.com/@PHUONGLEBICH-fb1yr) - Kênh của cô ** Lê Bích Phương **
-- [Giang Le](https://www.youtube.com/@GiangLe-zk3sf) - Kênh của cô ** Lê Thị Hương Giang **
+- [HUMG MATH CLUB](https://www.youtube.com/@PHUONGLEBICH-fb1yr) - Kênh của cô **Lê Bích Phương**
+- [Giang Le](https://www.youtube.com/@GiangLe-zk3sf) - Kênh của cô **Lê Thị Hương Giang**
 
 ### Đại số
 - [Document](https://github.com/nghlong3004/document-olympic-toan/tree/main/daiso/document) - Gồm các sách, tài liệu nói về lý thuyết đại số tuyến tính
