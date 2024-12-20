@@ -8,6 +8,11 @@
 - [Thông tin bộ môn toán của trường Đại Học Mỏ Địa Chất](https://humg.edu.vn/gioi-thieu/co-cau-to-chuc/cac-khoa/Pages/khoa-khoa-hoc-co-ban.aspx?CateID=118) 
 
 ## Tài liệu ôn thi Đại số & Giải tích 
+
+### Kênh Video bài giảng của thầy cô bộ môn toán
+- [HUMG MATH CLUB](https://www.youtube.com/@PHUONGLEBICH-fb1yr) - Kênh của cô ** Lê Bích Phương **
+- [Giang Le](https://www.youtube.com/@GiangLe-zk3sf) - Kênh của cô ** Lê Thị Hương Giang **
+
 ### Đại số
 - [Document](https://github.com/nghlong3004/document-olympic-toan/tree/main/daiso/document) - Gồm các sách, tài liệu nói về lý thuyết đại số tuyến tính
 - [Problem](https://github.com/nghlong3004/document-olympic-toan/tree/main/daiso/problem) - Đề của các năm
