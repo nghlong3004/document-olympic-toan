@@ -22,3 +22,6 @@
 - [Document](https://github.com/nghlong3004/document-olympic-toan/tree/main/giaitich/document) - Gồm các sách, tài liệu nói về lý thuyết Giải tích
 - [Problem](https://github.com/nghlong3004/document-olympic-toan/tree/main/giaitich/problem) - Đề của các năm
 - [Solution](https://github.com/nghlong3004/document-olympic-toan/tree/main/giaitich/solution) - Lời giải của Đề các năm
+
+### Kỷ yếu Olympic Sinh Viên
+- [OSV Ky Yeu](https://github.com/nghlong3004/document-olympic-toan/tree/main/osv_ky_yeu) - Đây là tài liệu kỷ yếu chứa đề và lời giải chi tiết của từng đề thi olympic các năm
