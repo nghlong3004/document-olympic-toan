@@ -15,8 +15,8 @@
 	+ Cách 2: Clone về máy.
 		+ Step 1: các bạn tải **git** về máy ([Có thể Bấm vào đây](https://git-scm.com/downloads)).
 		+ Step 2: vào trong 1 folder bạn muốn lưu tài liệu bật command.
-		+ Step 3: gõ: **git init**.
-		+ Step 4: gõ:  **git clone** **https://github.com/nghlong3004/document-olympic-toan/blob/main/giaitich/document/Teacher-Viet/document_1.pdf**.
+		+ Step 3: gõ: **git init**
+		+ Step 4: gõ:  **git clone** **https://github.com/nghlong3004/document-olympic-toan/blob/main/giaitich/document/Teacher-Viet/document_1.pdf**
 
 ## Tài liệu ôn thi Đại số & Giải tích 
 
