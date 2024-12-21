@@ -13,9 +13,10 @@
 - tải về thì có 2 cách
 	+ Cách 1: Bạn ấn vào từng file pdf và ấn vào biểu tượng tải xuống này. ![image](https://github.com/user-attachments/assets/e3f384ed-013a-4e56-bb2b-3f62084341f6)
 	+ Cách 2: Clone về máy.
-		+ Step 1: các bạn tải **git** ([Có thể Bấm vào đây](https://git-scm.com/downloads)) về máy vào trong 1 folder bạn muốn lưu tài liệu bật command.
-		+ Step 2: gõ: **git init**.
-		+ Step 3: gõ:  **git clone** **https://github.com/nghlong3004/document-olympic-toan/blob/main/giaitich/document/Teacher-Viet/document_1.pdf**.
+		+ Step 1: các bạn tải **git** về máy ([Có thể Bấm vào đây](https://git-scm.com/downloads)).
+		+ Step 2: vào trong 1 folder bạn muốn lưu tài liệu bật command.
+		+ Step 3: gõ: **git init**.
+		+ Step 4: gõ:  **git clone** **https://github.com/nghlong3004/document-olympic-toan/blob/main/giaitich/document/Teacher-Viet/document_1.pdf**.
 
 ## Tài liệu ôn thi Đại số & Giải tích 
 
