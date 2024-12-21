@@ -10,7 +10,7 @@
 ## Tài liệu ôn thi Đại số & Giải tích 
 
 ### Kênh Video bài giảng của thầy cô bộ môn toán
-- [HUMG MATH CLUB](https://www.youtube.com/@PHUONGLEBICH-fb1yr) - Kênh của cô **Lê Bích Phương**
+- [HUMG MATH CLUB](https://www.youtube.com/@PHUONGLEBICH-fb1yr) - Kênh của cô **Lê Bích Phượng**
 - [Giang Le](https://www.youtube.com/@GiangLe-zk3sf) - Kênh của cô **Lê Thị Hương Giang**
 
 ### Đại số
