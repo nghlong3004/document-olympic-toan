@@ -12,17 +12,19 @@
 - Tải về thì có 3 cách:
 	+ Cách 1: Bạn ấn vào từng file pdf và ấn vào biểu tượng tải xuống này. ![image](https://github.com/user-attachments/assets/e3f384ed-013a-4e56-bb2b-3f62084341f6)
 	+ Cách 2: [Tải qua Drive](https://drive.google.com/drive/folders/1772GivsweB5vNU2AqAdEQrMuz0jN8A72?hl=vi)
-	+ Cách 3: Clone về máy.
-		+ Step 1: các bạn tải **git** về máy ([Có thể Bấm vào đây](https://git-scm.com/downloads)).
-		+ Step 2: vào trong 1 folder bạn muốn lưu tài liệu bật command.
-		+ Step 3: gõ: **git init**
-		+ Step 4: gõ:  **git clone** **https://github.com/nghlong3004/document-olympic-toan/blob/main/giaitich/document/Teacher-Viet/document_1.pdf**
 
 ## Tài liệu ôn thi Đại số & Giải tích 
 
 ### Kênh Video bài giảng của thầy cô bộ môn toán
 - [HUMG MATH CLUB](https://www.youtube.com/@PHUONGLEBICH-fb1yr) - Kênh của cô **Lê Bích Phượng**
 - [Giang Le](https://www.youtube.com/@GiangLe-zk3sf) - Kênh của cô **Lê Thị Hương Giang**
+
+### Ôn tập
+- [File vở ghi](https://github.com/nghlong3004/document-olympic-toan/blob/main/ontap/Tai_lieu_on_tap_dai_so.pdf) - File scan vở ghi của anh An
+- [File ôn tập](https://github.com/nghlong3004/document-olympic-toan/blob/main/ontap/On_Tap_Olympic_Toan_SV_2025.pdf) - File tài liệu ôn mình tìm được
+
+### File Bài giảng của thầy cô bộ môn toán
+- [BaiGiang](https://github.com/nghlong3004/document-olympic-toan/tree/main/bai_giang_thay_co_bmt) - File bài giảng của thầy cô dạy năm 2025
 
 ### Đại số
 - [Document](https://github.com/nghlong3004/document-olympic-toan/tree/main/daiso/document) - Gồm các sách, tài liệu nói về lý thuyết đại số tuyến tính
